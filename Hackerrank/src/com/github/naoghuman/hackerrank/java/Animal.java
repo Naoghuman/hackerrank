@@ -9,12 +9,8 @@ package com.github.naoghuman.hackerrank.java;
  *
  * @author PRo
  */
-class Bird extends Animal {
-    void fly() {
-        System.out.println("I am flying");
-    }
-
-    void sing() {
-        System.out.println("I am singing");
+public class Animal {
+    public void walk(){
+        System.out.println("I am walking");
     }
 }
