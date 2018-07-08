@@ -1,2 +1,2 @@
 # hackerrank
-My solutions from https//www.hackerrank.com
+My solutions from https://www.hackerrank.com
